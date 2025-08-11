@@ -15,15 +15,18 @@ h2{
 }
 label{
   padding: 0 0 0 15px;
+  font-size: 25px;
+  font-weight: bold;
 }
 .username, .password{
-  border-radius: 5px;
+  border-radius: 10px;
   text-align: left;
   margin: 5px 10px 5px 10px;
   width: 600px;
-  height: 35px;
+  height: 45px;
   font-weight: bold;
   padding: 0 0 0 10px;
+  font-size: 15px;
 }
 .F{
   margin: 30px 0 30px 350px
@@ -33,12 +36,12 @@ label{
 }
 .submit{
   font-size: 25px;
-  border-radius: 10px;
+  border-radius: 20px;
   font-weight: bold;
   width: 200px;
   height: 40px;
   text-align: center;
   margin: 0 0 10px 350px;
-  color: black;
+  color: white;
   background-color: #06C755;
 }
