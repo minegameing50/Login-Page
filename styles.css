@@ -6,7 +6,7 @@ body{
  .Login-box{
    background: rgba(255, 255, 255, 0.4);
    border-radius: 15px;
-   margin: 700px 150px 700px 150px;
+   margin: 850px 150px 850px 150px;
    font-weight: bold;
  }
 h2{
@@ -26,10 +26,10 @@ label{
   padding: 0 0 0 10px;
 }
 .F{
-  text-align: center;
+  margin: 30px 0 30px 350px
 }
 .S{
-  margin: 30px 135px 5px 135px;
+  margin: 30px 0 10px 400px;
 }
 .submit{
   font-size: 25px;
@@ -38,7 +38,7 @@ label{
   width: 200px;
   height: 40px;
   text-align: center;
-  margin: 0 115px 10px 115px;
+  margin: 0 0 10px 350px;
   color: black;
   background-color: #06C755;
 }
